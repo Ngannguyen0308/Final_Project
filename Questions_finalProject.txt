@@ -1,0 +1,18 @@
+Nguyễn THỊ Ngọc Ngân 
+20020003 -20cse
+
+
+
+QUESTIONS: 
+
+1> Group data by country, and change format data to have less columns.
+2> Fix the date format of data
+3> Total of confirmed, deaths, recovered, and active cases.
+4> Create a Keys Performence Indicator(KPI) of total confirmed, 
+deaths, recovered, and active cases:
+5> Plot a scatter of the total confirmed, total deaths, and death race in different countries
+6>Create a graph of the combination(line + bar chart) of the total number of deaths and the level of deaths by country.
+7> Create a line graph of confirmed in any four countries
+8> Create a map showing the total confirmedcases in all the world.
+9> Create a dynamic gif COVID-19 in all the world( more than 10 days)
+10> Create a COVID-19 tracker. 
